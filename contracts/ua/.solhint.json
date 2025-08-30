@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "prettier"
+    ],
+    "rules": {
+        "prettier/prettier": "error",
+        "quotes": [
+            "error",
+            "double"
+        ]
+    },
+    "excludedFiles": [
+        "./lib/**"
+    ]
+}
