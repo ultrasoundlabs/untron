@@ -1,0 +1,12 @@
+[submodule "contracts/ua/lib/axelar-gmp-sdk-solidity"]
+	path = contracts/ua/lib/axelar-gmp-sdk-solidity
+	url = https://github.com/axelarnetwork/axelar-gmp-sdk-solidity.git
+[submodule "contracts/ua/lib/forge-std"]
+	path = contracts/ua/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
+[submodule "contracts/ua/lib/openzeppelin-contracts-upgradeable"]
+	path = contracts/ua/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable.git
+[submodule "contracts/ua/lib/solmate"]
+	path = contracts/ua/lib/solmate
+	url = https://github.com/transmissions11/solmate.git
